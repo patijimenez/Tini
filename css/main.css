@@ -1,0 +1,114 @@
+body{
+	background-color: #C0C0C0;
+}
+.yellow{
+	background-color: #FDD017;
+
+}
+.white{
+	color: white;
+}
+.menu{
+	display: inline-block;
+	text-align: left;
+	padding-right: 20px;
+	padding-left: 0px;
+}
+.sumate{
+	background-color: #FFA62F;
+	width: 100px;
+	height: 50px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.psum{
+	margin-top: 17px;
+}
+.contyellow{
+	height: 500px;
+}
+.head{
+	margin-top: -450px;
+}
+.titulo{
+	margin-top: 200px;
+	text-align: center;
+	margin-left: 100px;
+}
+a{
+	list-style-type: none;
+	text-decoration: none;
+	color: white;
+}
+.zindex{
+	z-index: 1;
+	position: absolute;
+}
+.contblanco{
+	background-color: white;
+	border: 1px solid white;
+	width: 440px;
+	height: 550px;
+	position: static;
+
+}
+.contgray{
+	background-color: #D8D8D8;
+	width: 300px;
+	height: 300px;
+	margin-left: 70px;
+	margin-top: 50px;
+	position: relative;
+}
+.roboto{
+	font-family: Roboto;
+	color: gray;
+	font-size: 22px;
+}
+.margintop{
+	margin-top: 500px;
+}
+.medida{
+	margin-left: 100px;
+	position: absolute;
+	margin-top: 140px;
+}
+.lee{
+	background-color: #FFA62F;
+	width: 120px;
+	height: 30px;
+	margin-left: 140px;
+	margin-top: 60px;
+
+}
+.plee{
+	color: white;
+	margin-right: 5px;
+	padding-top: 5px;
+}
+.cont2{
+	margin-top: 50px;
+}
+.gray{
+	color: gray;
+}
+.colorp{
+	color: #BDBDBD;
+	margin-top: 15px;
+}
+h2{
+	margin-top: 15px;
+}
+.paddingleft{
+	padding-left: 30px;
+}
+footer{
+	background-color: #414040;
+	height: 80px;
+	margin-top: 100px;
+}
+.pfooter{
+ color: white;
+ padding-top: 40px;
+ margin-left: 150px;
+}
